@@ -1,0 +1,10 @@
+# python virtual envs
+venv/
+.venv/
+env/
+ENV/
+
+# python crap
+__pycache__/
+*.pyc
+*.pyo
